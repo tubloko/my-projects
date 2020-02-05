@@ -1,0 +1,38 @@
+.original_title {
+    margin-top: 3%;
+    font-size: 24px;
+}
+.release {
+    margin-top: 11%;
+}
+.info {
+    margin-top: 2%;
+}
+.overview {
+    margin-top: 2.5%;
+}
+.similar {
+    margin-top: 5%;
+}
+.similar_movies {
+    margin-top: 5%;
+}
+.toggle, .trailer, .favorite {
+    background-color: darkred;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.trailer {
+    margin-right: 2%;
+}
+.favorite {
+    margin-left: 3%;
+}
+.toggle, .favorite {
+    margin-top: 1%;
+}
+.back {
+    border: none;
+    color: white;
+}

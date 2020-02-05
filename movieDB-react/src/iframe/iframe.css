@@ -1,0 +1,10 @@
+.frame {
+    background-color: darkred;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    margin-top: 0.5%;
+}
+.embed-responsive-item {
+    margin-top: 3%;
+}

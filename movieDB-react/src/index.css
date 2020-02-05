@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+}
+.title {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5%;
+    transition: 0.6s;
+}
+.title:hover {
+    transition: 0.6s;
+    color: darkred;
+}
+a:hover {
+    text-decoration: none;
+}
+.block {
+    border-left: 15px darkred solid;
+    border-bottom: 1px darkred solid;
+    margin-top: 3%;
+    border-radius: 15px;
+}
+.come {
+    color: darkred;
+}
+.simil {
+    color: darkred;
+}
+.vote-count {
+    color: white;
+    font-size: 16px;
+}
