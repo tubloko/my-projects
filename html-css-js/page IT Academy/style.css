@@ -1,0 +1,436 @@
+body {
+    margin: 0;
+}
+
+.number {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+.our_design {
+    font-size: 20px;
+}
+
+img {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+}
+
+.first_section {
+    padding-top: 5%;
+}
+
+
+/* .container,
+.container-fluid {
+    font-family: 'Corben', cursive;
+} */
+
+.faces {
+    background-image: url(./image/fon1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+    margin-top: 6%;
+}
+
+h1 {
+    padding-top: 20%;
+    font-family: "Corbel";
+    color: rgb(8, 69, 82);
+    line-height: 1.333;
+}
+
+.first_block {
+    padding-top: 5%;
+}
+
+.text-about {
+    padding-top: 25%;
+    font-family: "Corbel";
+    color: rgb(8, 69, 82);
+    line-height: 1.333;
+    text-align: left;
+}
+
+.names {
+    font-family: "Corbel";
+    color: rgb(8, 69, 82);
+    line-height: 1.5;
+    margin-top: 5%;
+    font-size: 22px;
+}
+
+.about-us {
+    margin-top: 5%;
+}
+
+.networks {
+    margin-top: 7%;
+}
+
+text {
+    margin-top: 5%;
+    text-align: left;
+}
+
+.text_css {
+    font-size: 16.53px;
+    font-family: "Corbel";
+    color: rgb(40, 51, 66);
+    line-height: 1.333;
+    text-align: left;
+}
+
+.h_css {
+    text-align: center;
+    font-family: "Corbel";
+    color: rgb(8, 69, 82);
+    line-height: 1.333;
+}
+
+h2 {
+    margin-top: 7%;
+    font-family: "Corbel";
+    color: rgb(8, 69, 82);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.949;
+}
+
+.second_block {
+    padding-top: 3%;
+}
+
+h3 {
+    margin-bottom: 10%;
+}
+
+.first_pictures {
+    margin-top: 7%;
+}
+
+.deepDiveIntoEnglish {
+    margin-top: 12%;
+}
+
+.photo_deepDive {
+    height: 700px;
+    position: relative;
+    right: 15%;
+    margin-top: 5%;
+}
+
+.first_pr {
+    z-index: 1;
+}
+
+.second_pr {
+    z-index: 2;
+    top: 45%;
+    left: 84%;
+}
+
+.third_pr {
+    z-index: 3;
+    bottom: 67%;
+    right: 14%;
+}
+
+.fourth_pr {
+    z-index: 4;
+    top: 3%;
+    left: 52%;
+}
+
+.first_pr,
+.second_pr,
+.third_pr,
+.fourth_pr {
+    position: absolute;
+}
+
+
+/* lifon================================= */
+
+.lifons {
+    margin-top: 29%
+}
+
+.photo_lifons {
+    height: 900px;
+    position: relative;
+    right: 30%;
+}
+
+.lifon {
+    background-image: url(./image/fon2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
+    /* margin-top: -45%; */
+    color: white;
+}
+
+.two_first_pr,
+.two_second_pr,
+.two_third_pr,
+.two_fourth_pr {
+    position: absolute;
+}
+
+.two_first_pr {
+    z-index: 5;
+    top: 25%;
+}
+
+.two_second_pr {
+    z-index: 6;
+    top: 19%;
+    left: 99%;
+}
+
+.two_third_pr {
+    z-index: 7;
+    top: 69%;
+    right: 19%;
+}
+
+.two_fourth_pr {
+    z-index: 8;
+    top: 29%;
+    left: 55%;
+}
+
+
+/* lifon================================= */
+
+
+/* ebglish */
+
+.english_photo {
+    height: 800px;
+}
+
+.english {
+    margin-top: 21%;
+}
+
+.three_first_pr {
+    z-index: 9;
+    left: 9%;
+    bottom: 25%;
+}
+
+.three_second_pr {
+    z-index: 10;
+    bottom: 61%;
+    right: 12%;
+}
+
+.three_third_pr {
+    z-index: 11;
+    left: 34%;
+    top: 4%;
+}
+
+.three_fourth_pr {
+    z-index: 12;
+    bottom: 143%;
+    left: 9.5%;
+}
+
+.three_first_pr,
+.three_second_pr,
+.three_third_pr,
+.three_fourth_pr {
+    position: relative;
+}
+
+.english_container {
+    margin-top: 5%;
+}
+
+
+/* ebglish */
+
+
+/* karpatu============= */
+
+.karpatu_text {
+    margin-top: 29%;
+}
+
+.karpatu_photo {
+    height: 900px;
+    position: relative;
+    right: 30%;
+}
+
+.karpatu {
+    background-image: url(./image/fon3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 950px;
+    /* margin-top: -55% */
+}
+
+.four_first_pr {
+    z-index: 13;
+    top: 25%;
+}
+
+.four_second_pr {
+    z-index: 14;
+    top: 19%;
+    left: 88%;
+}
+
+.four_third_pr {
+    z-index: 15;
+    top: 63%;
+    right: 19%;
+}
+
+.four_fourth_pr {
+    z-index: 16;
+    top: 28%;
+    left: 55%;
+}
+
+.four_first_pr,
+.four_second_pr,
+.four_third_pr,
+.four_fourth_pr {
+    position: absolute;
+}
+
+
+/* karpatu============= */
+
+
+/* summer */
+
+.summer_photo {
+    height: 800px;
+    right: 4%;
+    position: relative;
+}
+
+.summer {
+    margin-top: 20%;
+}
+
+.fifth_first_pr {
+    z-index: 18;
+    left: 9%;
+    bottom: 25%;
+}
+
+.fifth_second_pr {
+    z-index: 19;
+    bottom: 55%;
+    left: 34%;
+}
+
+.fifth_third_pr {
+    z-index: 20;
+    right: 14%;
+    top: 8%;
+}
+
+.fifth_fourth_pr {
+    z-index: 21;
+    bottom: 135%;
+    left: 9.5%;
+}
+
+.fifth_first1_pr {
+    z-index: 17;
+    right: 15%;
+    bottom: 160%;
+}
+
+.fifth_first1_pr,
+.fifth_first_pr,
+.fifth_second_pr,
+.fifth_third_pr,
+.fifth_fourth_pr {
+    position: relative;
+}
+
+
+/* summer */
+
+
+/* vot ono */
+
+.vot_ono {
+    background-image: url(./image/fon4_for_small.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 1200px;
+    /* margin-top: -60%; */
+    color: white;
+}
+
+.sixth_first_pr {
+    z-index: 22;
+}
+
+.sixth_second_pr {
+    z-index: 23;
+    bottom: 68%;
+    left: 47%;
+}
+
+.sixth_third_pr {
+    z-index: 24;
+    top: 62%;
+    right: 72%;
+}
+
+.sixth_fourth_pr {
+    z-index: 25;
+    top: 4%;
+    left: 6%;
+}
+
+.sixth_first_pr,
+.sixth_second_pr,
+.sixth_third_pr,
+.sixth_fourth_pr {
+    position: absolute;
+}
+
+.vot_ono_text {
+    margin-top: 50%;
+}
+
+.vot_ono_photo {
+    height: 600px;
+    margin-top: 40%;
+    position: relative;
+}
+
+
+/* vot ono */
+
+.vot_ono_cart>.text-center>a {
+    margin-left: 2%;
+}
+
+footer {
+    background-image: url(./image/footer.png);
+}
+
+.footer {
+    padding-top: 2%;
+    clear: both;
+}

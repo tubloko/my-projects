@@ -1,0 +1,310 @@
+body {
+    margin: auto;
+}
+
+.header {
+    background-image: url(./image/Path1.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 700px;
+    opacity: 1;
+    background-color: black;
+}
+
+.learn_more {
+    margin-top: 5%;
+}
+
+.logo_book {
+    font-weight: bold;
+}
+
+nav {
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+
+/* a {
+    text-decoration: none;
+    color: inherit;
+} */
+
+a:hover {
+    text-decoration: none;
+}
+
+ul>li {
+    text-transform: uppercase;
+}
+
+
+/* ul>li {
+    display: inline;
+} */
+
+h1 {
+    font-weight: bold;
+    margin-top: 12%;
+    font-size: 60px;
+}
+
+.sub_h1 {
+    line-height: 1.4;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.photo_education {
+    margin-top: 5%;
+}
+
+.h2_education {
+    margin-top: 5%;
+    line-height: 3;
+}
+
+p>img {
+    padding-right: 4%;
+}
+
+.icon {
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+p>b {
+    margin-top: 20%;
+}
+
+
+/* .feature_back {
+    background-color: lightgoldenrodyellow;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.feature_back>img {
+    padding-top: 27%;
+} */
+
+.features,
+.courses {
+    margin-top: 9%;
+}
+
+.time {
+    border-bottom: 3px solid gray;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.online_test_text,
+.ressie {
+    border-bottom: 3px solid gray;
+}
+
+.first_online_testing_block,
+.second_online_testing_block {
+    margin-top: 5%;
+}
+
+.first_online_testing_block {
+    margin-top: 7%;
+}
+
+.under_photo>div {
+    padding-left: 4%;
+}
+
+.time {
+    margin-top: 3%;
+}
+
+div>button {
+    margin-top: 5%;
+}
+
+.notepad,
+.watch,
+.photo_im {
+    margin-top: 5%;
+}
+
+.teachers {
+    margin-top: 7%;
+}
+
+.fo {
+    line-height: 0.5;
+    margin-top: 5.5%;
+    padding-right: 7%;
+}
+
+.green {
+    color: green;
+}
+
+.photo {
+    padding-left: 4%;
+    margin-top: 3%;
+}
+
+.programs {
+    margin-top: 3%;
+}
+
+.back1 {
+    background-image: url(./image/Rectangle55.png);
+    width: 100%;
+}
+
+.back2 {
+    background-image: url(./image/Rectangle56.png);
+    width: 100%;
+}
+
+.back3 {
+    background-image: url(./image/Rectangle57.png);
+    width: 100%;
+}
+
+.back4 {
+    background-image: url(./image/Rectangle58.png);
+    width: 100%;
+}
+
+.back5 {
+    background-image: url(./image/Rectangle59.png);
+    width: 100%;
+}
+
+.back6 {
+    background-image: url(./image/Rectangle60.png);
+    width: 100%;
+}
+
+.back1,
+.back2,
+.back3,
+.back4,
+.back5,
+.back6 {
+    background-position: center;
+    background-color: darkgreen;
+    background-repeat: no-repeat;
+    color: white;
+    height: 350px;
+    margin-top: 3%;
+}
+
+.back1,
+.back2,
+.back3,
+.back4,
+.back5,
+.back6>h3 {
+    padding-top: 40%;
+}
+
+.green1,
+.green2 {
+    margin-top: 2%;
+}
+
+.green1 {
+    margin-top: 3%;
+}
+
+.what_client_say {
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.Blog_Slides {
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+.blog_button {
+    margin-top: 2%;
+}
+
+.back_input {
+    margin-top: 3%;
+    background-image: url(./image/Rectangle65.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 240px;
+}
+
+.subscribe,
+.Contact_us {
+    margin-top: 5%;
+}
+
+.text_input,
+.text_input_contact[type="text"] {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.text_input,
+.text_input_contact {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 3px solid gray;
+    color: gray;
+}
+
+.text_area {
+    width: 100%;
+    margin-top: 5%;
+}
+
+.London {
+    width: 100%;
+    height: auto;
+}
+
+.iconMap {
+    width: 180px;
+    float: left;
+    margin-top: 3%;
+    padding-right: 5%;
+    /* padding-right: 15%; */
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    height: auto;
+    margin-top: 5%;
+}
+
+.footer_education {
+    padding-top: 3%;
+}
+
+.nav-footer {
+    padding-top: 7%;
+}
+
+.footer_ul>li {
+    display: inline;
+    padding-left: 3%;
+}
+
+li {
+    list-style: none;
+}

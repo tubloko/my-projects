@@ -1,0 +1,85 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.background{
+    z-index: 100;
+    background-color: black;
+    opacity: 0.7;
+}
+.logo{
+    margin-top: 2%;
+    margin-left: 4%;
+}
+.logoText{
+    color: gray;
+    font-size: 12px;
+}
+.photo{
+    margin-top: 50px;
+}
+.photo > img{
+    width: 300px;
+}
+.network{
+    font-size: 20px;
+}
+.network{
+    font-size: 20px;
+}
+.img > img{
+    margin-left: 6%;
+    transition: 0.6s;
+    background-color: gray;
+    opacity: 1;
+}
+.img > img:hover{
+    background-color: darkred;
+    border-radius: 50px;
+    transform: scale(1.5);
+    transition: 0.6s;
+}
+#my_info > li{
+    font-size: 16px;
+    list-style-type: none;
+    padding-top: 5%;
+}
+h1{
+    text-transform: uppercase;
+    margin-top: 19%;
+}
+#button_modules{
+    margin-top: 10%;
+    width: 400px;;
+}
+#my_info, #courses{
+    display: block!important;
+    font-weight: bold;
+    color: gray;
+}
+div{
+    cursor: default;
+}
+ul{
+    display: none;
+}
+ul.visible{
+    display: block;
+}
+.modulesAndCourses{
+    border: 3px black solid;
+    color: gray;
+    font-weight: bold;
+    transition: 0.6s;
+    margin-top: 5%;
+}
+.link:hover{
+    /* transform: scale(1.1); */
+    color: darkred;
+    transition: 0.6s;
+}
+footer{
+    margin-top: 5%;
+}

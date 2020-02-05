@@ -1,0 +1,897 @@
+@media (max-width: 1330px) and (min-width: 992px) {
+    .english_photo {
+        right: 10%;
+    }
+    .two_third_pr {
+        right: 17%;
+    }
+    .summer_photo {
+        width: 490px;
+    }
+    .photo_deepDive {
+        right: 19%;
+    }
+    .third_pr {
+        bottom: 66%;
+        right: 9%;
+    }
+    .button_pr {
+        margin-top: 20%;
+    }
+    /* .vot_ono_photo {
+        left: 5%;
+    }
+    .summer_photo {
+        left: 5%;
+    }
+    .english_photo {
+        left: 4%;
+    } */
+}
+
+@media (max-width: 991px) {
+    .slider {
+        height: 550px;
+    }
+    h3 {
+        margin-bottom: 5%;
+    }
+    h2 {
+        margin-top: 1%;
+    }
+    .faces {
+        margin-top: 0;
+    }
+    h1 {
+        padding-top: 30%;
+    }
+    /* deepDive */
+    .deepDiveIntoEnglish {
+        margin-top: 7%;
+    }
+    .photo_deepDive {
+        right: 30%;
+        margin-top: 15%;
+        height: 600px;
+    }
+    .second_pr {
+        top: 53%;
+        left: 82%;
+    }
+    .third_pr {
+        right: 19%;
+        bottom: 63%;
+    }
+    /* deepDive */
+    /* lifon================================= */
+    .lifons {
+        margin-top: 20%
+    }
+    .photo_lifons {
+        height: 700px;
+        position: relative;
+        right: 30%;
+    }
+    .lifon {
+        width: 100%;
+        height: 1100px;
+    }
+    .two_first_pr,
+    .two_second_pr,
+    .two_third_pr,
+    .two_fourth_pr {
+        position: absolute;
+    }
+    .two_second_pr {
+        left: 95%;
+    }
+    .two_third_pr {
+        top: 81%;
+    }
+    /* lifon================================= */
+    /* ebglish */
+    .english {
+        margin-top: 10%;
+    }
+    .three_second_pr {
+        z-index: 10;
+        right: 8%;
+        bottom: 63%;
+    }
+    .three_third_pr {
+        z-index: 11;
+        left: 30%;
+        top: 4%;
+    }
+    .english_container {
+        margin-top: 0;
+    }
+    /* ebglish */
+    /* karpatu============= */
+    .karpatu_text {
+        margin-top: 17%;
+    }
+    .karpatu_photo {
+        height: 700px;
+    }
+    .karpatu {
+        height: 1100px;
+    }
+    .four_second_pr {
+        z-index: 14;
+        top: 19%;
+        left: 83%;
+    }
+    .four_third_pr {
+        top: 74%;
+        right: 20%;
+    }
+    /* karpatu============= */
+    /* summer */
+    .summer_photo {
+        height: 800px;
+    }
+    .summer {
+        margin-top: 10%;
+    }
+    .fifth_second_pr {
+        bottom: 57%;
+        left: 30%;
+    }
+    .fifth_first1_pr {
+        bottom: 163%;
+        right: 12%;
+    }
+    /* summer */
+    /* vot ono */
+    .vot_ono {
+        max-width: 100%;
+        height: 1400px;
+        color: white;
+    }
+    .sixth_second_pr {
+        bottom: 62%;
+        left: 43%;
+    }
+    .sixth_third_pr {
+        top: 71%;
+        right: 72%;
+    }
+    .vot_ono_text {
+        margin-top: 25%;
+    }
+    .vot_ono_photo {
+        height: 500px;
+        margin-top: 64%;
+        position: relative;
+        width: 600px;
+        left: 5%
+    }
+    /* vot ono */
+}
+
+@media (max-width: 1050px) and (min-width: 992px) {
+    h2 {
+        margin-top: 1%;
+    }
+    .faces {
+        margin-top: 0;
+    }
+    h1 {
+        padding-top: 30%;
+    }
+    /* deepDive */
+    .photo_deepDive {
+        right: 20%;
+    }
+    .third_pr {
+        right: 11%;
+    }
+    /* deepDive */
+    .summer_photo {
+        right: 10%;
+    }
+    .summer {
+        padding-right: 9%;
+    }
+    /* lifon================================= */
+    .lifons {
+        margin-top: 29%
+    }
+    .photo_lifons {
+        height: 900px;
+        position: relative;
+        right: 20%;
+    }
+    .lifon {
+        background-image: url(./image/fon2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 1000px;
+        /* margin-top: -45%; */
+        color: white;
+    }
+    .two_first_pr,
+    .two_second_pr,
+    .two_third_pr,
+    .two_fourth_pr {
+        position: absolute;
+    }
+    .two_first_pr {
+        z-index: 5;
+        top: 25%;
+    }
+    .two_second_pr {
+        z-index: 6;
+        top: 19%;
+        left: 99%;
+    }
+    .two_third_pr {
+        z-index: 7;
+        top: 69%;
+        right: 15%;
+    }
+    .two_fourth_pr {
+        z-index: 8;
+        top: 29%;
+        left: 55%;
+    }
+    /* lifon================================= */
+    /* english */
+    .english_photo {
+        right: 6%;
+    }
+    /* english */
+}
+
+@media (max-width: 767px) {
+    .text-about {
+        padding-top: 10%;
+    }
+    h2 {
+        margin-top: 1%;
+    }
+    h1 {
+        padding-top: 40%;
+        margin-top: 60%;
+    }
+    .faces {
+        height: 2650px;
+        margin-top: -50%;
+    }
+    .section_two {
+        margin-top: 30%;
+    }
+    /* deepDive */
+    .second_pr,
+    .third_pr {
+        width: 35%;
+    }
+    .first_pr,
+    .fourth_pr {
+        width: 70%;
+    }
+    .photo_deepDive {
+        right: 32%;
+        height: 500px;
+    }
+    .second_pr {
+        top: 62%;
+        left: 92%;
+    }
+    .third_pr {
+        right: 22%;
+        bottom: 70%;
+    }
+    .fourth_pr {
+        top: 1%;
+        left: 50%;
+    }
+    /* deepDive */
+    /* lifon================================= */
+    .lifons {
+        margin-top: 35%
+    }
+    .photo_lifons {
+        height: 500px;
+        margin-top: 11%;
+        right: 38%;
+    }
+    .lifon {
+        height: 1000px;
+    }
+    .two_second_pr {
+        left: 100%;
+    }
+    .two_third_pr {
+        top: 97%;
+        left: 43%;
+    }
+    .two_second_pr,
+    .two_third_pr {
+        width: 35%;
+    }
+    .two_first_pr {
+        width: 75%;
+    }
+    .two_fourth_pr {
+        width: 70%;
+        top: 27%;
+        left: 53%;
+    }
+    /* lifon================================= */
+    /* ebglish */
+    .english_photo {
+        position: relative;
+        height: 500px;
+        left: 3%;
+        margin-top: 20%;
+    }
+    .three_first_pr,
+    .three_second_pr,
+    .three_third_pr,
+    .three_fourth_pr {
+        position: absolute;
+    }
+    .english {
+        margin-top: 10%;
+    }
+    .three_first_pr {
+        top: -11%;
+    }
+    .three_second_pr {
+        top: 61%;
+        right: 61%;
+    }
+    .three_third_pr {
+        top: -17%;
+        left: 51%;
+    }
+    .three_fourth_pr {
+        top: -7%;
+        left: 12%;
+    }
+    .three_second_pr,
+    .three_third_pr {
+        width: 40%;
+    }
+    .three_first_pr {
+        width: 75%;
+    }
+    .three_fourth_pr {
+        width: 70%;
+    }
+    .english_container {
+        margin-top: 5%;
+    }
+    /* ebglish */
+    /* karpatu============= */
+    .karpatu_text {
+        margin-top: 29%;
+    }
+    .karpatu_photo {
+        height: 500px;
+        position: relative;
+        right: 35%;
+    }
+    .karpatu {
+        margin-top: 15%;
+        height: 950px;
+    }
+    .four_first_pr {
+        top: 25%;
+    }
+    .four_second_pr {
+        top: 16%;
+        left: 93%;
+    }
+    .four_third_pr {
+        top: 85%;
+        right: 19%;
+    }
+    .four_fourth_pr {
+        top: 28%;
+        left: 53%;
+    }
+    .four_second_pr,
+    .four_third_pr {
+        width: 40%;
+    }
+    .four_first_pr {
+        width: 75%;
+    }
+    .four_fourth_pr {
+        width: 70%;
+    }
+    /* karpatu============= */
+    /* summer */
+    .summer_photo {
+        height: 600px;
+        position: relative;
+        margin-top: 20%;
+        /* right: -2%; */
+        left: 3%;
+    }
+    .fifth_first_pr {
+        bottom: 12%;
+        right: 41%;
+    }
+    .fifth_second_pr {
+        bottom: 6%;
+        left: 50%;
+    }
+    .fifth_third_pr {
+        top: -3%;
+        left: 1%;
+    }
+    .fifth_fourth_pr {
+        bottom: 12%;
+        left: 12%;
+    }
+    .fifth_first1_pr {
+        bottom: 0;
+        right: 42%;
+    }
+    .fifth_first1_pr,
+    .fifth_second_pr,
+    .fifth_third_pr,
+    .fifth_first_pr,
+    .fifth_fourth_pr {
+        position: absolute;
+    }
+    .fifth_first1_pr {
+        width: 55%;
+    }
+    .fifth_second_pr,
+    .fifth_third_pr {
+        width: 40%;
+    }
+    .fifth_first_pr {
+        width: 75%;
+    }
+    .fifth_fourth_pr {
+        width: 70%;
+    }
+    /* summer */
+    /* vot ono */
+    .vot_ono {
+        height: 1200px;
+    }
+    .sixth_first_pr {
+        z-index: 22;
+    }
+    .sixth_second_pr {
+        bottom: 67%;
+        left: 50%;
+    }
+    .sixth_third_pr {
+        z-index: 24;
+        top: 62%;
+        right: 66%;
+    }
+    .sixth_fourth_pr {
+        z-index: 25;
+        top: 4%;
+        left: 6%;
+    }
+    .sixth_second_pr,
+    .sixth_third_pr {
+        width: 40%;
+    }
+    .sixth_first_pr {
+        width: 75%;
+    }
+    .sixth_fourth_pr {
+        width: 70%;
+    }
+    .vot_ono_text {
+        margin-top: 29%;
+    }
+    .vot_ono_photo {
+        height: 500px;
+        margin-top: 70%;
+        width: 480px;
+        right: 2%;
+    }
+    /* vot ono */
+}
+
+@media (max-width: 575px) {
+    .slider {
+        height: 480px;
+    }
+    .left,
+    .right {
+        width: 50px;
+        margin-top: 15%;
+    }
+    /* .slider {
+        height: 650px;
+    } */
+    .about_photo {
+        width: 80%;
+    }
+    .networks {
+        width: 20%;
+    }
+    /* ==================================================================================== */
+    /* deepDive */
+    .photo_deepDive {
+        right: 32%;
+        height: 500px;
+        width: 460px;
+    }
+    /* deepDive */
+    /* lifon================================= */
+    .lifons {
+        margin-top: 35%
+    }
+    .photo_lifons {
+        height: 500px;
+        margin-top: 11%;
+        right: 30%;
+        width: 460px;
+    }
+    .two_third_pr {
+        top: 85%;
+    }
+    /* .lifon {
+    
+    /* lifon================================= */
+    /* ebglish */
+    .english_photo {
+        width: 460px;
+        left: 4%;
+    }
+    .three_first_pr,
+    .three_second_pr,
+    .three_third_pr,
+    .three_fourth_pr {
+        position: absolute;
+    }
+    .three_second_pr {
+        top: 54%;
+    }
+    /* ebglish */
+    /* karpatu============= */
+    .karpatu_photo {
+        right: 31%;
+        width: 460px;
+    }
+    .four_third_pr {
+        top: 81%;
+        right: 19%;
+    }
+    /* karpatu============= */
+    /* summer */
+    .summer_photo {
+        height: 500px;
+        margin-top: 15%;
+        right: 0;
+        left: 3%;
+        width: 460px;
+    }
+    .fifth_third_pr {
+        top: -9%;
+        left: 1%;
+    }
+    /* summer */
+    /* vot ono */
+    .vot_ono {
+        height: 1200px;
+    }
+    .sixth_first_pr {
+        z-index: 22;
+    }
+    .sixth_second_pr {
+        bottom: 70%;
+        left: 50%;
+    }
+    .sixth_third_pr {
+        z-index: 24;
+        top: 51%;
+        right: 63%;
+    }
+    .sixth_fourth_pr {
+        z-index: 25;
+        top: 4%;
+        left: 6%;
+    }
+    .sixth_second_pr,
+    .sixth_third_pr {
+        width: 40%;
+    }
+    .vot_ono_text {
+        margin-top: 20%;
+    }
+    .vot_ono_photo {
+        height: 500px;
+        margin-top: 80%;
+        width: 460px;
+        left: 4%;
+    }
+    /* vot ono */
+    /* FOOTER */
+    .logo_footer>img {
+        width: 70%;
+    }
+    .logo_footer {
+        width: 30%;
+    }
+    .numbers {
+        width: 30%;
+    }
+    .numbers>.number {
+        font-size: 10px;
+        height: 1px;
+    }
+    .networks_footer>a>img {
+        width: 25%;
+    }
+    .networks_footer {
+        width: 30%;
+    }
+    /* FOOTER */
+    /* ==================================================================================== */
+}
+
+
+/* ========================================================================================================================= */
+
+@media (max-width: 480px) {
+    .faces {
+        margin-top: -93%;
+    }
+    h1 {
+        padding-top: 80%;
+        margin-top: 60%;
+    }
+    /* deepDive */
+    .photo_deepDive {
+        right: 21%;
+        height: 400px;
+        width: 350px;
+    }
+    .second_pr {
+        top: 56%;
+        left: 94%;
+    }
+    .third_pr {
+        bottom: 74%;
+    }
+    /* deepDive */
+    /* lifon================================= */
+    .lifon {
+        height: 800px;
+    }
+    .lifons {
+        margin-top: 35%;
+    }
+    .photo_lifons {
+        height: 400px;
+        margin-top: 11%;
+        width: 350px;
+        right: 28%;
+    }
+    .two_third_pr {
+        top: 86%;
+    }
+    /* lifon================================= */
+    /* ebglish */
+    .english_photo {
+        width: 350px;
+        height: 400px;
+    }
+    .three_first_pr,
+    .three_second_pr,
+    .three_third_pr,
+    .three_fourth_pr {
+        position: absolute;
+    }
+    .three_second_pr {
+        top: 52%;
+    }
+    /* ebglish */
+    /* karpatu============= */
+    .karpatu_photo {
+        right: 24%;
+        width: 350px;
+        height: 400px;
+    }
+    .four_third_pr {
+        top: 75%;
+        right: 19%;
+    }
+    .four_second_pr {
+        left: 94%;
+    }
+    .karpatu {
+        height: 800px;
+    }
+    /* karpatu============= */
+    /* summer */
+    .summer_photo {
+        height: 400px;
+        margin-top: 15%;
+        right: 0;
+        left: 8%;
+        width: 350px;
+    }
+    .fifth_third_pr {
+        top: -3%;
+        left: 1%;
+    }
+    /* summer */
+    /* vot ono */
+    .vot_ono {
+        height: 1000px;
+        margin-top: -34%;
+    }
+    .sixth_first_pr {
+        z-index: 22;
+    }
+    .sixth_second_pr {
+        bottom: 70%;
+        left: 50%;
+    }
+    .sixth_third_pr {
+        z-index: 24;
+        top: 54%;
+        right: 66%;
+    }
+    .sixth_fourth_pr {
+        z-index: 25;
+        top: 4%;
+        left: 6%;
+    }
+    .sixth_second_pr,
+    .sixth_third_pr {
+        width: 40%;
+    }
+    .vot_ono_text {
+        margin-top: 10%;
+    }
+    .vot_ono_photo {
+        height: 400px;
+        margin-top: 80%;
+        left: 10%;
+        width: 350px;
+    }
+    /* vot ono */
+}
+
+
+/* ============================================================================= */
+
+@media (max-width: 380px) {
+    .faces {
+        margin-top: -93%;
+        height: 2500px;
+    }
+    h1 {
+        margin-top: 80%;
+    }
+    /* deepDive */
+    .photo_deepDive {
+        right: 23%;
+        height: 350px;
+        width: 300px;
+    }
+    .second_pr {
+        top: 53%;
+        left: 94%;
+    }
+    .third_pr {
+        bottom: 74%;
+    }
+    /* deepDive */
+    /* lifon================================= */
+    .lifons {
+        margin-top: 35%;
+    }
+    .photo_lifons {
+        height: 350px;
+        margin-top: 11%;
+        width: 300px;
+        right: 29%;
+    }
+    .two_third_pr {
+        top: 83%;
+    }
+    /* lifon================================= */
+    /* ebglish */
+    .english_photo {
+        width: 300px;
+        height: 350px;
+    }
+    .three_second_pr {
+        top: 45%;
+    }
+    /* ebglish */
+    /* karpatu============= */
+    .karpatu_photo {
+        right: 29%;
+        width: 300px;
+        height: 350px;
+    }
+    .four_third_pr {
+        top: 75%;
+        right: 19%;
+    }
+    .four_second_pr {
+        left: 94%;
+    }
+    .karpatu {
+        height: 700px;
+    }
+    /* karpatu============= */
+    /* summer */
+    .summer_photo {
+        height: 350px;
+        margin-top: 15%;
+        right: 0;
+        left: 8%;
+        width: 300px;
+    }
+    .fifth_third_pr {
+        top: -3%;
+        left: 1%;
+    }
+    /* summer */
+    /* vot ono */
+    .vot_ono {
+        height: 900px;
+        margin-top: -34%;
+    }
+    .sixth_first_pr {
+        z-index: 22;
+    }
+    .sixth_second_pr {
+        bottom: 70%;
+        left: 50%;
+    }
+    .sixth_third_pr {
+        z-index: 24;
+        top: 50%;
+        right: 64%;
+    }
+    .sixth_fourth_pr {
+        z-index: 25;
+        top: 4%;
+        left: 6%;
+    }
+    .sixth_second_pr,
+    .sixth_third_pr {
+        width: 40%;
+    }
+    .vot_ono_text {
+        margin-top: 10%;
+    }
+    .vot_ono_photo {
+        height: 350px;
+        margin-top: 90%;
+        left: 8%;
+        width: 300px;
+    }
+    /* vot ono */
+    .numbers>.number {
+        font-size: 8px;
+        line-height: -1;
+    }
+}
+
+
+/* ============================================================================= */
+
+@media (max-width: 320px) {
+    .vot_ono_photo {
+        left: 5%;
+    }
+    .summer_photo {
+        left: 5%;
+    }
+    .english_photo {
+        left: 4%;
+    }
+}
