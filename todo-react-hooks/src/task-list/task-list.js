@@ -1,9 +1,10 @@
+// todo wrong components naming look at documents
 import React, {useState} from "react";
 
 import ToDoInput from "../input";
 import DayOfTheWeek from "../day-of-the-week";
 import ListGroup from "../list-group";
-
+// two declarations of styles
 import './task-list.css';
 
 const TaskList = () => {
@@ -28,6 +29,9 @@ const TaskList = () => {
         tasksList(newList);
     };
     const checkTask = (id) => {
+        // you need to states
+        // one for order
+        // another for tasks, may discuss
         const newList = [...tasks];
         for (let i = 0; i < newList.length; i++) {
             if (newList[i].id === id) {
